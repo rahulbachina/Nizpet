@@ -3,14 +3,14 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.swagraam.prakasamdtapp"
+        id        = "com.swagraam.nizampetapp"
         version   = "1.0.0">
 
-    <name>Prakasam District</name>
+    <name>NizamPet App</name>
 
     <description>
-        Prakasam District is a located in andhrapradesh state in india the people living in various villages 
-		Prakasam District APP serve these people by providing useful information.
+        Nizampet is a located in Telangana state in india
+		Nizampet APP serve these people by providing useful information.
     </description>
 
     <author href="http://swagraam.com" email="admin@swagraam.com">
