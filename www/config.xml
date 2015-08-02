@@ -25,6 +25,12 @@
     <gap:platform name="ios" />
     <gap:platform name="android" />
     
+
+<gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.9.0">
+    <param name="APP_ID" value="100355713652086" />
+    <param name="APP_NAME" value="NizamPet" />
+</gap:plugin>
+
     <gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
     <gap:plugin name="nl.x-services.plugins.socialsharing" version="4.3.8" />
